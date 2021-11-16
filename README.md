@@ -7,7 +7,9 @@
 
  ### Languages and Tools:
 
+<a>
   <img align="left" pointer-events="none" cursor="default" alt="Java" height="30px" src="https://user-images.githubusercontent.com/67766546/141890664-d351aae6-d702-42bb-a397-6198ba968874.png" />
+</a>
 
   <img align="left" alt="JavaScript" height="30px" src="https://user-images.githubusercontent.com/67766546/141890711-ae4936a0-4434-4ac3-ae89-6e2af70857b8.png" />
 
