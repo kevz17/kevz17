@@ -5,11 +5,10 @@
 
  - Candidate for a Master of Science in Computer Science at Northeastern University
 
- - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevz17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevz17&layout=compact&langs_count=8)](https://github.com/kevz17)
+[![Zhiwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevz17&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/kevz17)
 
- - <img align="left" alt="Zhiwei's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kevz17&count_private=true&show_icons=true&hide=stars,issues" />
-
- ### Languages and Tools:
+### Languages and Tools:
 
  - <img align="left" pointer-events="none" cursor="default" alt="Java" height="30px" src="https://user-images.githubusercontent.com/67766546/141890664-d351aae6-d702-42bb-a397-6198ba968874.png" /><img align="left" alt="JavaScript" height="30px" src="https://user-images.githubusercontent.com/67766546/141890711-ae4936a0-4434-4ac3-ae89-6e2af70857b8.png" /><img align="left" alt="C language" height="30px" src="https://user-images.githubusercontent.com/67766546/141888745-078808ff-59fe-4b95-a8c5-c2714c984bfb.png" /><img align="left" alt="Python" height="30px" src="https://user-images.githubusercontent.com/67766546/141888981-2697d266-a213-458e-b60e-da0f8f0800e9.png" /><img align="left" alt="HTML 5" height="30px" src="https://user-images.githubusercontent.com/67766546/141888831-c58ae74c-951b-48d7-9389-896ac3570b8e.png" /><img align="left" alt="CSS 3" height="30px" src="https://user-images.githubusercontent.com/67766546/141930712-b6663645-5fa9-4ed7-b579-9ace578d29ab.png" /><img align="left" alt="Bash" height="30px" src="https://user-images.githubusercontent.com/67766546/141936871-5c7d1ab4-1293-4c60-8ffa-adb13ec9e067.png" />
 
