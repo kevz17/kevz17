@@ -19,7 +19,7 @@
 
   <img align="left" alt="CSS 3" height="30px" src="https://user-images.githubusercontent.com/67766546/141930712-b6663645-5fa9-4ed7-b579-9ace578d29ab.png" />
 
-  <img align="left" alt="Bash" height="30px" src="https://user-images.githubusercontent.com/67766546/141936333-3081ead5-59f1-4c0c-b745-4ccb1198dfcc.png" />
+  <img align="left" alt="Bash" height="30px" src="https://user-images.githubusercontent.com/67766546/141936596-008f80f2-28f6-4e3c-a09c-f0318a0614d6.jpg" />
 
 <br/><br/>
 
@@ -34,6 +34,7 @@
   <img align="left" alt="MongoDB" height="30px" src="https://user-images.githubusercontent.com/67766546/141933960-27ba19ab-4bbb-4a57-a4e0-ca3211c1842c.png" />
 
   <img align="left" alt="SQLite" height="30px" src="https://user-images.githubusercontent.com/67766546/141935892-c3dfed5f-83e5-42b2-b809-fba5817b18ce.png" />
+
 <br/><br/>
 
   <img align="left" alt="Amazon EC2" height="30px" src="https://user-images.githubusercontent.com/67766546/141934547-b96a6e19-3f55-41ac-9aee-a2961d955e5c.png" />
