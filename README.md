@@ -19,7 +19,7 @@
 
   <img align="left" alt="CSS 3" height="30px" src="https://user-images.githubusercontent.com/67766546/141930712-b6663645-5fa9-4ed7-b579-9ace578d29ab.png" />
 
-  <img align="left" alt="Bash" height="30px" src="https://user-images.githubusercontent.com/67766546/141936596-008f80f2-28f6-4e3c-a09c-f0318a0614d6.jpg" />
+  <img align="left" alt="Bash" height="30px" src="https://user-images.githubusercontent.com/67766546/141936871-5c7d1ab4-1293-4c60-8ffa-adb13ec9e067.png" />
 
 <br/><br/>
 
