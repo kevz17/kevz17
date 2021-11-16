@@ -23,21 +23,25 @@
 
   <img align="left" alt="Bash" height="30px" src="https://user-images.githubusercontent.com/67766546/141931184-88097dac-3e21-4ec8-8194-88eac8518b18.png" />
 
+<br/><br/>
+
   <img align="left" alt="Node JS" height="30px" src="https://user-images.githubusercontent.com/67766546/141888913-c504059d-dc2c-409d-8b9a-5b7d6c554e35.png" />
 
   <img align="left" alt="React" height="30px" src="https://user-images.githubusercontent.com/67766546/141889996-5f0c1673-9ef1-4546-88ef-016ad5b355bd.png" />
 
   <img align="left" alt="MySQL" height="30px" src="https://user-images.githubusercontent.com/67766546/141891028-3eddf7b8-5337-43fd-a648-a9ab98e87d0c.png" />
 
-  <img align="left" alt="Firebase" height="30px" src="https://user-images.githubusercontent.com/67766546/141890742-73873612-9d24-4e54-87b0-f789a8049fcf.png" />
+  <img align="left" alt="Firebase" height="30px" src="https://user-images.githubusercontent.com/67766546/141933710-f9e0ecb0-5a3d-49eb-9f18-8078e734938a.png" />
 
-  <img align="left" alt="MongoDB" height="30px" src="https://user-images.githubusercontent.com/67766546/141890636-825557e3-74b2-48c3-86e6-0911f65e4c30.png" />
+  <img align="left" alt="MongoDB" height="30px" src="https://user-images.githubusercontent.com/67766546/141933960-27ba19ab-4bbb-4a57-a4e0-ca3211c1842c.png" />
 
-  <img align="left" alt="Amazon EC2" height="30px" src="https://user-images.githubusercontent.com/67766546/141888248-0a61d8ba-c460-4cfa-b814-db70339f2903.png" />
+<br/><br/>
 
-  <img align="left" alt="Heroku" height="30px" src="https://user-images.githubusercontent.com/67766546/141931922-aa44b7d9-9ae5-46f9-be8a-bc779b924e49.png" />
+  <img align="left" alt="Amazon EC2" height="30px" src="https://user-images.githubusercontent.com/67766546/141934547-b96a6e19-3f55-41ac-9aee-a2961d955e5c.png" />
 
-  <img align="left" alt="AWS Amplify" height="30px" src="https://user-images.githubusercontent.com/67766546/141932410-ffa46a32-84b6-4c6a-bc99-b694491d58ad.png" />
+  <img align="left" alt="Heroku" height="30px" src="https://user-images.githubusercontent.com/67766546/141934688-556ff88d-4b96-4b44-88a5-fddd9e6b814a.png" />
+
+  <img align="left" alt="AWS Amplify" height="30px" src="https://user-images.githubusercontent.com/67766546/141934847-d55fc148-06c1-480e-9613-e3b277b772c5.png" />
 
   <img align="left" alt="Git" height="30px" src="https://user-images.githubusercontent.com/67766546/141890096-e108d906-eb77-48b1-971e-462bc712ada3.png" />
 
@@ -45,7 +49,7 @@
 
   <img align="left" alt="VS code" height="30px" src="https://user-images.githubusercontent.com/67766546/141890428-8a9dae61-3730-4d2b-9dfc-24c3b86daccc.png" />
 
-  <img align="left" alt="Android studio" height="30px" src="https://user-images.githubusercontent.com/67766546/141890506-c058db8d-b3b8-482c-ad66-e54b58b0b397.png" />
+  <img align="left" alt="Android studio" height="30px" src="https://user-images.githubusercontent.com/67766546/141935232-eebfc867-6b5b-4b96-87eb-8ab0c20c01cd.png" />
 
   <img align="left" alt="Terminal" height="30px" src="https://user-images.githubusercontent.com/67766546/141891098-a5834434-d28e-4fa7-a4f6-1400ce14e708.png" />
 
