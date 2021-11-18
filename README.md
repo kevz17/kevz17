@@ -6,9 +6,9 @@
 
  - Candidate for a Master of Science in Computer Science at Northeastern University
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevz17&layout=compact&langs_count=8)](https://github.com/kevz17)
-[![Zhiwei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevz17&layout=compact&custom_title=Weekly%20Development%20Breakdown)](https://github.com/kevz17)
-[![Zhiwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevz17&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/kevz17)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevz17&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)](https://github.com/kevz17)
+[![Zhiwei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevz17&theme=tokyonight&hide_border=true&layout=compact&custom_title=Weekly%20Development%20Breakdown)](https://github.com/kevz17)
+[![Zhiwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevz17&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/kevz17)
 
 ### Languages and Tools:
 
