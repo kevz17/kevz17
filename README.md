@@ -25,7 +25,7 @@
   <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/67766546/142518883-3030b6a5-9bed-489d-a875-2f4ac6875caf.png"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://user-images.githubusercontent.com/67766546/142519951-ee32747e-56cf-42f3-bd79-5a9ef7c5f78c.png"/></a>
   <a href="https://www.sqlite.org/index.html" target="_blank"><img alt="SQLite" src="https://user-images.githubusercontent.com/67766546/142517289-05a1827b-72cb-427f-936b-9506c09a29ec.png" /></a>
 
   <a href="https://aws.amazon.com/ec2/" target="_blank"><img alt="Amazon EC2" src="https://user-images.githubusercontent.com/67766546/142516451-99056bef-2076-4e76-b766-e9ac158eee8d.png" /></a>
