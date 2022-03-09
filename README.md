@@ -6,8 +6,6 @@
 
 - _Candidate for a Master of Science in Computer Science at Northeastern University_
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevz17&hide_border=true&layout=compact&langs_count=8)](https://github.com/kevz17)
 [![Zhiwei's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevz17&hide_border=true&layout=compact&custom_title=Weekly%20Development%20Breakdown&v=2)](https://github.com/kevz17)
 [![Zhiwei's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevz17&hide_border=true&count_private=true&show_icons=true&hide=stars,issues)](https://github.com/kevz17)
